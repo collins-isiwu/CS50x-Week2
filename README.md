@@ -15,8 +15,8 @@ A number of “readability tests” have been developed over the years that defi
 # Caesar
 Caesar is a C program that encrypts messages using Caesar’s cipher, per the below.
 
-$ ./caesar 13
+$ ./caesar 13 plaintext:  HELLO 
 
-plaintext:  HELLO into
+into
 
 ciphertext: URYYB
