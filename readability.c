@@ -14,7 +14,7 @@ int main(void)
     tally_words = 1;
 
     //request texts from user
-    string s = get_string();
+    string s = get_string("plaintext: ");
 
     //loop the process of finding the various tallies
     for (int i = 0, n = strlen(s); i < n; i++)
