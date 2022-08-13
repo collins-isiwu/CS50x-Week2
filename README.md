@@ -1,4 +1,4 @@
-# CS50_Week_2
+# CS50x Week2
 
 # Readability
 Readability is a C program that takes a text and determines its reading level. For example, if user types in a line of text from Dr. Seuss, the program should behave as follows:
